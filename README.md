@@ -1,15 +1,14 @@
 
-### Hello, my name is Carlos Nobuaki, I am currently studying Big Data in Agribusiness at the Shunji Nishimura College of Technology in the city of Pompeia, Brazil. I am an electronics technician and I love learning about IoT, Machine Learning, Artificial Intelligence, API's, databases and other things. Within the college I am developing a team project that monitors water conditions in fish farms and issues alerts. 👨‍💻
+### Hello, my name is Carlos Nobuaki, I currently work at the Agribusiness Innovation Center, better known as CIAg, a research and development company for cutting-edge technologies under the JACTO GROUP. I'm a BIG DATA graduate and an electronics technician. I love learning about IoT, Machine Learning, Artificial Intelligence, APIs, SQL, NoSQL and Vector databases. I work with computer vision, neural networks, natural language processing, large language models and others.👨‍💻
 
 [![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://arrendamentoonline.com.br)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCnObIFxwnfFdx2Mq2KLpwRw)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/951552049991004230/951552049991004234)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/hokumura32@gmail.com)
 
 
 ![Nobuaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosNobuaki&show_icons=true&theme=tokyonight)
 
-### Technologies I study in college and some I study on my own.
+### Some technologies i study on my own.
 ### HTML:
 
 <div style ="display: inline_block">
@@ -18,25 +17,36 @@
 
 ### Programming Languages:
 <div style ="display: inline_block">
-    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">   
     <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">    
-    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img align="center" alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+    <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">  
 </div>
 
-### Frameworks:
+### ML, DL and AI:
+<div style ="display: inline_block">
+    ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+    ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+    <img align="center" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img align="center" alt="jupyter" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
+</div>
 
-<div style ="display: inline_block">   
+### Frameworks, Platforms and Libraries:
+
+<div style ="display: inline_block">  
+    <img align="center" alt="CUDA" src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green">
+    <img align="center" alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
     <img align="center" alt="nodeJs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">    
     <img align="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+    <img align="center" alt="insomnia" src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE">
+     <img align="center" alt="OpenCV" src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white">
+    
 </div>
 
 ### Databases:
-
 <div style ="display: inline_block"> 
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">       
@@ -45,17 +55,15 @@
     <img align="center" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">   
 </div>
 
-### AI:
-<div style ="display: inline_block">
-    <img align="center" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-    <img align="center" alt="jupyter" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
-</div>
-
 ### Clouds:
 <div style ="display: inline_block">
-    <img align="center" alt="heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
+    <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
      <img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </div>
+
+### Git:
+<div style ="display: inline_block">
+    <img align="center" alt="gitlab CI" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 
 ### Design:
 <div style ="display: inline_block">
