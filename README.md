@@ -8,14 +8,13 @@
 
 ![Nobuaki's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarlosNobuaki&show_icons=true&theme=tokyonight)
 
-### Some technologies i study on my own.
 ### HTML:
-
 <div style ="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 </div>
 
 ### Programming Languages:
+
 <div style ="display: inline_block">
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">   
@@ -24,6 +23,7 @@
 </div>
 
 ### ML, DL and AI:
+
 <div style ="display: inline_block">
     <img align="center" alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white">
     <img align="center" alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black">
@@ -31,7 +31,7 @@
     <img align="center" alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     <img align="center" alt="Plotly" src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white">
     <img align="center" alt="Pytorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white">
-    <img align="center" alt="SciKit Learn" src="scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img align="center" alt="SciKitLearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
     <img align="center" alt="Scipy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white">
     <img align="center" alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <img align="center" alt="jupyter" src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter">
@@ -53,6 +53,7 @@
 </div>
 
 ### Databases:
+
 <div style ="display: inline_block"> 
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
     <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">       
@@ -62,16 +63,19 @@
 </div>
 
 ### Clouds:
+
 <div style ="display: inline_block">
     <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
      <img align="center" alt="azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 </div>
 
 ### Git:
+
 <div style ="display: inline_block">
     <img align="center" alt="gitlab CI" src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 
 ### Design:
+
 <div style ="display: inline_block">
     <img align="center" alt="XD" src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
     <img align="center" alt="photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black">
@@ -79,6 +83,7 @@
 </div>
 
 ### IDE:
+
 <div style ="display: inline_block">
     <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white">
     <img align="center" alt="colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
